@@ -9,3 +9,5 @@ Testing rebase command
 writing this for checking the commits
 
 Testing the merge
+
+Testing the differnce between git rebase and git merge
